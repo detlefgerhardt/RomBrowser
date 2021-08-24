@@ -21,7 +21,7 @@ Inspired by Wolfgang Robel's ROM wizard with its graphical view, I wrote this si
 
 ## Quick instructions
 
-- Start RomBrowser.EXE
+- Start RomBrowser.exe
 - If you get an error, check if you have .NET 4.5 installed.
 - Click on the directory button in the header (above the directory windows) to choose the directory with the your ROM files.
 - Choose the number of ROM panels you want to view simultaneously from the drop-down box in der header (above the panels).
