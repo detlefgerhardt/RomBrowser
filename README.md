@@ -2,7 +2,7 @@
 
 An info tool for vintage ROM/EPROM/FLASH images
 
-Inspired by Wolfgang Robels ROM wizard with its graphical view, I wrote this similar tool to search through large amounts of ROM images very quickly.
+Inspired by Wolfgang Robels ROM wizard with its graphical view, I wrote this similar tool to browse through large amounts of ROM images very quickly.
 
 ## Features
 
