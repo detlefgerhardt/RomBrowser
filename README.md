@@ -31,6 +31,14 @@ Inspired by Wolfgang Robel's ROM wizard with its graphical view, I wrote this si
 - Check the compare button on at least 2 panel to compare them. The difference are show as yellow patterns.
 - It it possible to compare ROM images of different size. The bytes that are missing in the smaller images are also shown as yellow patterns in the larger images.
 
+## Meaning of the color patterns
+
+- Red dot: a byte with value $00
+- Blue dot: a byte with value $FF
+- Green dot: any other value
+- If the image size is larger than 2048 bytes, each dot represents more than 1 byte. In this case the dot is red or blue if at least one of represented bytes is $00 or $FF.
+- In compare-mode the dot is yellow if at least on represented byte is different.
+
 ## Links
 
 Wolfgang Robel's [ROM-Wizard](http://www.wolfgangrobel.de/romwizard.htm)
