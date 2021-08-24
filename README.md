@@ -2,7 +2,7 @@
 
 A fast bowser for vintage ROM/EPROM/FLASH images
 
-Inspired by Wolfgang Robel's ROM wizard with its graphical view, I wrote this similar tool to browse through large amounts of ROM images very quickly.
+Inspired by Wolfgang Robel's ROM-Wizard with its graphical view, I wrote this similar tool to browse through large amounts of ROM images very quickly.
 
 ## Features
 
