@@ -29,7 +29,7 @@ Inspired by Wolfgang Robel's ROM wizard with its graphical view, I wrote this si
 - In the directory window browse to the ROM image file you want to display.
 - Select another panel and browse to another file - and so on...
 - Check the compare button on at least 2 panel to compare them. The difference are show as yellow patterns.
-- It it possible to compare ROM images of different size. The bytes that are missing in the smaller images are also shown as yellow patterns.
+- It it possible to compare ROM images of different size. The bytes that are missing in the smaller images are also shown as yellow patterns in the larger images.
 
 ## Links
 
