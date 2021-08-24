@@ -1,6 +1,6 @@
 # RomBrowser
 
-A fast bowser for vintage ROM/EPROM/FLASH images
+A fast browser for vintage ROM/EPROM/FLASH images
 
 Inspired by Wolfgang Robel's ROM-Wizard with its graphic representation of the ROM content, I wrote this similar tool to browse through a large amount of ROM images more quickly.
 
