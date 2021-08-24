@@ -17,7 +17,7 @@ Inspired by Wolfgang Robels ROM wizard with its graphical view, I wrote this sim
 - More detections to come...
 - No editor functions and no hex display so far
 
-![Screenshot](https://github.com/detlefgerhardt/RomBrowser/blob/master/screen1.png)
+![Screenshot](https://github.com/detlefgerhardt/RomBrowser/blob/main/screen1.png)
 
 ## Links
 
