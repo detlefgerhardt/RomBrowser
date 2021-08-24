@@ -23,12 +23,13 @@ Inspired by Wolfgang Robel's ROM wizard with its graphical view, I wrote this si
 
 - Start RomBrowser.EXE
 - If you get an error, check if you have .NET 4.5 installed.
-- Click on the directory button in the header above the directory windows to choose the directory with the ROM files.
-- Choose the number of images you want to view simultaneously from the drop-down box in der header above the ROM image displays.
-- Select the first display panel bei clicking on the "ROM #x". The active panel is marked by a red border.
-- In direytory window browse to the ROM image file you want to display.
-- Select another panel and browse to another file.
-- Check the compare button on at least 2 panel for compare. The difference are show as yellow patterns.
+- Click on the directory button in the header (above the directory windows) to choose the directory with the your ROM files.
+- Choose the number of ROM panels you want to view simultaneously from the drop-down box in der header (above the panels).
+- Select the active panel bei clicking on the "ROM #X" at the top of a panel. The active panel is marked by a red border.
+- In the directory window browse to the ROM image file you want to display.
+- Select another panel and browse to another file - and so on...
+- Check the compare button on at least 2 panel to compare them. The difference are show as yellow patterns.
+- It it possible to compare ROM images of different size. The bytes that are missing in the smaller images are also shown as yellow patterns.
 
 ## Links
 
