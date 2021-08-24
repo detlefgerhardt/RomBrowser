@@ -15,7 +15,7 @@ Inspired by Wolfgang Robel's ROM wizard with its graphical view, I wrote this si
 - Tries to detect leading start address (first 2 bytes, Commodore style)
 - Tries to detect IBM PC ROM extensions
 - More detections to come...
-- No editor functions and no hex display so far
+- No edit functions and no hex display so far
 
 ![Screenshot](https://github.com/detlefgerhardt/RomBrowser/blob/main/screen1.png)
 
